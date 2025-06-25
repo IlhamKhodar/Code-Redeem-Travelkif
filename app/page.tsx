@@ -122,6 +122,7 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-white">
+      <head><link rel="icon" href="/travelkifbulat.png" /></head>
       {/* Header */}
       <header className="p-6">
         <div className="flex items-center gap-2">
